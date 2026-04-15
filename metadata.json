@@ -1,0 +1,6 @@
+{
+  "name": "Validador Fiscal PR",
+  "description": "Validador especializado na legislação do Paraná para operações de venda a consumidor final, analisando Cesta Básica e Redução de Base.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
